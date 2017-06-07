@@ -7,6 +7,6 @@ Steps to run the test suite:
 
 The test will execute on Firefox version lower than 47.0 as I have used Selenium 2.53.0
 
-Parallel processing can be achieved by means of threads initiating different or browser instance.
+Parallel processing can be achieved by Selenium grid execute same or different test scripts on multiple platforms and browsers concurrently. 
 
 
