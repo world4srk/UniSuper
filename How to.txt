@@ -1,0 +1,12 @@
+Steps to run the test suite: 
+1. Open IntelliJ IDE
+2. Import the project as a maven project
+3. Install Cucumber for Java plugin
+4. Set Java Home
+5. Execute the testRunner.java
+
+The test will execute on Firefox version lower than 47.0 as I have used Selenium 2.53.0
+
+Parallel processing can be achieved by means of threads initiating different or browser instance.
+
+
